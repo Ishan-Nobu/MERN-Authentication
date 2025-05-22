@@ -1,5 +1,5 @@
 # MERN-Authentication
-MERN Authentication boilerplate where authentication is done by storing a JWT in a HTTP-Only cookie. Backend API is created with Express and MongoDB. API routes are created for registering, logging in, logging out, getting profile and updating profile. Authentication to verify the JWT stored in the cookie is done through custom middleware. Frontend is made with React, styled with Tailwind CSS, state is managed with Redux and API handling is done with RTK query. 
+MERN Authentication system where authentication is done by storing a JWT in a HTTP-Only cookie. Backend API is created with Express and MongoDB. API routes are created for registering, logging in, logging out, getting profile and updating profile. Authentication to verify the JWT stored in the cookie is done through custom middleware. Frontend is made with React, styled with Tailwind CSS, state is managed with Redux and API handling is done with RTK query. 
 
 ## Links
 [Repo](https://github.com/Ishan-Nobu/Mern-Authentication)
